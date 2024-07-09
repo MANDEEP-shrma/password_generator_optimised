@@ -1,6 +1,7 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repo contains the code of the password generator ccreated by me during the learning process of teh REACT.js.
+During this prroject creation I learnt effective and essential usecase of React states like useState,useRef,useCallBack.
 
 Currently, two official plugins are available:
 
